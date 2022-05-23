@@ -1,0 +1,11 @@
+C:\Users\Barış\source\repos\OtelRezNet\OtelRezNet\obj\Debug\OtelRezNet.csproj.AssemblyReference.cache
+C:\Users\Barış\source\repos\OtelRezNet\OtelRezNet\obj\Debug\OtelRezNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Barış\source\repos\OtelRezNet\OtelRezNet\obj\Debug\OtelRezNet.Form1.resources
+C:\Users\Barış\source\repos\OtelRezNet\OtelRezNet\obj\Debug\OtelRezNet.Properties.Resources.resources
+C:\Users\Barış\source\repos\OtelRezNet\OtelRezNet\obj\Debug\OtelRezNet.csproj.GenerateResource.cache
+C:\Users\Barış\source\repos\OtelRezNet\OtelRezNet\obj\Debug\OtelRezNet.csproj.CoreCompileInputs.cache
+C:\Users\Barış\source\repos\OtelRezNet\OtelRezNet\bin\Debug\OtelRezNet.exe.config
+C:\Users\Barış\source\repos\OtelRezNet\OtelRezNet\bin\Debug\OtelRezNet.exe
+C:\Users\Barış\source\repos\OtelRezNet\OtelRezNet\bin\Debug\OtelRezNet.pdb
+C:\Users\Barış\source\repos\OtelRezNet\OtelRezNet\obj\Debug\OtelRezNet.exe
+C:\Users\Barış\source\repos\OtelRezNet\OtelRezNet\obj\Debug\OtelRezNet.pdb
